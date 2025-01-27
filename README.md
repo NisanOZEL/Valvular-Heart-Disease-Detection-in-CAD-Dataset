@@ -32,7 +32,7 @@ In this model, a tangent-based distance metric was used instead of the tradition
 
 ## Objective
 
-The aim of this analysis is to provide insights into the effective detection and classification of VHD types, contributing to early diagnosis and decision support in healthcare.
+The aim of this analysis is to provide insights into the effective detection and classification of VHD types, contributing to early diagnosis and decision support in healthcare. Additionally, this study focuses on the examination, preparation, and cleaning of a dataset, conducting exploratory data analysis, visualizing the data, performing data transformation, and applying statistical analyses to explore relationships between variables. Furthermore, it aims to guide the process of building machine learning models, specifically showing how new kernel functions can be created and integrated into SVM and kNN algorithms.
 
 ## Model Evaluation
 
